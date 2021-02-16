@@ -1,7 +1,28 @@
 /**********************************
  * YOUR CODE GOES HERE THIS TIME! *
  **********************************/
+let x = 3
+let y = 10
+let z = 4
+let greeting = 'hello'
+let firstName = 'Andy'
+let callStatus = 'ringing'
 
+const double = () => x = x * 2
+
+
+const triple = () => y = y * 3
+
+
+const square = () => z = z ** 2
+
+
+const beNice = () => greeting = `{hello ${firstName}}`
+
+
+const changeName = () => firstName = 'Danger'
+
+const hangUp = () => callStatus = 'call ended'
 
 
 
